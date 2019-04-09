@@ -11,7 +11,7 @@ run `./cleanStart.sh`
 
 ### Flags
 
--c: also removes all node_modules, yarn.lock, and pack-lock.json files before installing
+-c: also removes all node_modules, yarn.lock, and package-lock.json files before installing
 
 -f: tells the script to run only corresponding to the subset of folders passed in as an array under the first line of the app. open file and add/remove folder names that you desire to run the script on and then run this script with this flag.
 
